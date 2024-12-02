@@ -1,11 +1,9 @@
 
 # 👋 Hi, I'm Micheal Olatunji Avoseh!🥷
 
-Welcome to my GitHub profile! I’m a **biomedical scientist** passionate about incorporating **data science** to visualize and analyze complex biomedical data. 
+Welcome to my GitHub profile! I’m a **biomedical scientist** passionate about incorporating **data science** to visualize and analyze complex biomedical data. My journey combines a strong foundation in molecular biology and 
 
-My journey combines a strong foundation in molecular biology and genetics with the ever-expanding field of computational data science. 
-
-I’m excited to share my projects and learning experiences with you!
+genetics with the ever-expanding field of computational data science.  I’m excited to share my projects and learning experiences with you!
 
 ---
 
@@ -16,11 +14,11 @@ I’m excited to share my projects and learning experiences with you!
 - 🎓 **Education**:
 - 
   - M.Sc. in Molecular Biology and Genetics
-  - 
+    
   - Graduate Certificate in Biomedical Informatics and Data Science
-  - 
+    
 - 💼 **Current Focus**: Exploring the intersection of biology and data science to uncover new insights in biomedical research.
-- 
+  
 - ⚽ **Hobbies**: Soccer, adventure, and movies!
 
 ---
@@ -30,35 +28,36 @@ I’m excited to share my projects and learning experiences with you!
 ### **Programming Languages**
 
 - Python 🐍
-- 
+  
 - R 📊
-- 
+  
 - Bash 🖥️
 
 ### **Data Science & Analysis**
 
 - Pandas, NumPy, Matplotlib, and Seaborn for Python
-- 
+  
 - Statistical modeling and visualization with R
-- 
+  
 - Shell scripting for task automation
 
 ### **Biomedical Tools**
 
 - Familiarity with molecular biology software
-- 
+  
 - Expertise in laboratory techniques and research methodologies
 
 ### **Version Control & Platforms**
 - Git & GitHub 🌟
-- 
+  
 - Linux command-line tools
 
 ---
 
 ## 🖥️ Projects
 
-### **Coming soon
+### Coming soon
+
 ---
 
 ## 🌐 Connect with Me
