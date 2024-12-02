@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I’m a **biomedical scientist** passionate about 
   - M.Sc. in Molecular Biology and Genetics  
   - Graduate Certificate in Biomedical Informatics and Data Science  
 - 💼 **Current Focus**: Exploring the intersection of biology and data science to uncover new insights in biomedical research.
-- 🌱 **Currently Learning**: Advanced Python libraries, R for statistical analysis, and Bash scripting for automation.
 - ⚽ **Hobbies**: Soccer, adventure, and movies!
 
 ---
