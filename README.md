@@ -55,8 +55,7 @@ Welcome to my GitHub profile! I’m a **biomedical scientist** passionate about 
 | Data Analysis (Python, R)    | Advanced              |
 | Statistical Modeling         | Advanced              |
 | RNA-seq Analysis             | Intermediate          |
-
-
+| Gel Electrophoresis          | Advanced        |
 
 ---
 
@@ -75,7 +74,7 @@ Welcome to my GitHub profile! I’m a **biomedical scientist** passionate about 
 
 ## 💡 Fun Fact
 
-I love combining data and biology to tell meaningful stories—and when I’m not coding or researching, you’ll find me playing soccer or planning my next adventure! 🧬⚽🎬  
+I love combining data and biology to tell meaningful stories. When I’m not coding or researching, you’ll find me playing soccer or planning my next adventure! 🧬⚽🎬  
 
 ---
 
