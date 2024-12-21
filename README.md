@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I’m a **biomedical scientist** passionate about 
 | Data Analysis (Python, R)    | Advanced              |
 | Statistical Modeling         | Advanced              |
 | RNA-seq Analysis             | Intermediate          |
-| Gel Electrophoresis          | Advanced        |
+| Gel Electrophoresis          | Intermediate          |
 
 ---
 
@@ -66,9 +66,9 @@ Welcome to my GitHub profile! I’m a **biomedical scientist** passionate about 
 
 ---
 
-## 📸 DNA Structure
+## 📸 Favorite Wallpaper
 
-![DNA Structure](./image.png)  
+![Favorite Wallpaper](./bridge-amp-sunset-2560A_1440.png)  
 
 ---
 
