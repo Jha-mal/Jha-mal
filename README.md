@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Micheal Olatunji Avoseh 🥷
 
-Welcome to my GitHub profile! I’m a **biomedical scientist** passionate about incorporating **data science** to visualize and analyze complex biomedical data. My journey combines a strong foundation in molecular biology and genetics with the ever-expanding field of computational data science. I’m excited to share my projects and learning experiences with you!
+Welcome to my GitHub profile! I’m a **biomedical scientist** passionate about incorporating **data science** to visualize and analyze complex biomedical data. 
+My journey combines a strong foundation in molecular biology and genetics with the ever-expanding field of computational data science. 
+I’m excited to share my projects and learning experiences with you!
 
 ---
 
@@ -74,8 +76,10 @@ Welcome to my GitHub profile! I’m a **biomedical scientist** passionate about 
 
 ## 💡 Fun Fact
 
-I love combining data and biology to tell meaningful stories. When I’m not coding or researching, you’ll find me playing soccer or planning my next adventure! 🧬⚽🎬  
+I love combining data and biology to tell meaningful stories. 
+When I’m not coding or researching, you’ll find me playing soccer or planning my next adventure! 🧬⚽🎬  
 
 ---
 
-Thanks for stopping by! Feel free to connect or explore my projects. Let’s make science and data come alive together!
+Thanks for stopping by! Feel free to connect or explore my projects. 
+Let’s make science and data come alive together!
