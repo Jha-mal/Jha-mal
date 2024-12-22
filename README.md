@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Micheal Olatunji Avoseh 🥷
 
-Welcome to my GitHub profile! I’m a **biomedical scientist** passionate about incorporating **data science** to visualize and analyze complex biomedical data.
-My journey combines a strong foundation in molecular biology and genetics with the ever-expanding field of computational data science.
-I’m excited to share my projects and learning experiences with you!
+Welcome to my GitHub profile! I’m a **biomedical scientist** passionate about 
+incorporating **data science** to visualize and analyze complex biomedical data. 
+My journey combines a strong foundation in molecular biology and genetics with 
+the ever-expanding field of computational data science. I’m excited to share my 
+projects and learning experiences with you!
 
 ---
 
@@ -35,9 +37,11 @@ I’m excited to share my projects and learning experiences with you!
 
 ### **RNA-seq Analysis of Liver and Brain Tissues**
 
-- **Description**: Performed RNA-seq analysis to compare gene expression patterns between liver and brain tissues.
+- **Description**: Performed RNA-seq analysis to compare gene expression patterns 
+  between liver and brain tissues.
 - **Tools**: Python, R, and Bash scripting.
-- **Outcome**: Identified tissue-specific gene expression profiles and pathways, contributing to insights into tissue function.
+- **Outcome**: Identified tissue-specific gene expression profiles and pathways, 
+  contributing to insights into tissue function.
 
 ---
 
@@ -70,10 +74,7 @@ I’m excited to share my projects and learning experiences with you!
 
 ## 💡 Fun Fact
 
-I love combining data and biology to tell meaningful stories.
-When I’m not coding or researching, you’ll find me playing soccer or planning my next adventure! 🧬⚽🎬
+I love combining data and biology to tell meaningful stories. When I’m not coding 
+or researching, you’ll find me playing soccer or planning my next adventure! 🧬⚽🎬
 
 ---
-
-Thanks for stopping by! Feel free to connect or explore my projects.
-Let’s make science and data come alive together!
