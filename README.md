@@ -1,5 +1,4 @@
-
-#  👋 Hi, I'm Micheal Olatunji Avoseh 🥷 
+# 👋 Hi, I'm Micheal Olatunji Avoseh 🥷
 
 Welcome to my GitHub profile! I’m a **biomedical scientist** passionate about incorporating **data science** to visualize and analyze complex biomedical data.
 My journey combines a strong foundation in molecular biology and genetics with the ever-expanding field of computational data science.
@@ -7,7 +6,7 @@ I’m excited to share my projects and learning experiences with you!
 
 ---
 
-##  🚀 About Me 
+## 🚀 About Me
 
 - 🌍 **Location**: [Delaware, USA]
 - 🎓 **Education**:
@@ -17,24 +16,24 @@ I’m excited to share my projects and learning experiences with you!
 
 ---
 
-##  🔧 Skills & Tools 
+## 🔧 Skills & Tools
 
-###  **Programming Languages** 
+### **Programming Languages**
 
 - Python 🐍
 - R 📊
 - Bash 🖥️
 
-###  **Data Science & Analysis** 
+### **Data Science & Analysis**
 
 - **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Statistical Tools**: t-tests, ANOVA, and regression modeling with R
 
 ---
 
-##  🖥️ Projects 
+## 🖥️ Projects
 
-###  **RNA-seq Analysis of Liver and Brain Tissues** 
+### **RNA-seq Analysis of Liver and Brain Tissues**
 
 - **Description**: Performed RNA-seq analysis to compare gene expression patterns between liver and brain tissues.
 - **Tools**: Python, R, and Bash scripting.
@@ -42,7 +41,7 @@ I’m excited to share my projects and learning experiences with you!
 
 ---
 
-##  📊 Research Skills
+## 📊 Research Skills
 
 | Skill                        | Expertise Level       |
 |------------------------------|-----------------------|
@@ -56,22 +55,25 @@ I’m excited to share my projects and learning experiences with you!
 
 ---
 
-##  🌐 Connect with Me
+## 🌐 Connect with Me
 
 - 💼 **LinkedIn**: [Micheal Avoseh LinkedIn](https://www.linkedin.com/in/micheal-olatunji-avoseh-2bb84a90)
 - 📧 **Email**: [avosehmicheal@gmail.com](mailto:avosehmicheal@gmail.com)
 
 ---
 
-##  📸 Favorite Wallpaper
+## 📸 Favorite Wallpaper
 
 ![Favorite Wallpaper](./bridge-amp-sunset-2560A_1440.png)
 
 ---
 
-##  💡 Fun Fact
+## 💡 Fun Fact
 
 I love combining data and biology to tell meaningful stories.
 When I’m not coding or researching, you’ll find me playing soccer or planning my next adventure! 🧬⚽🎬
 
 ---
+
+Thanks for stopping by! Feel free to connect or explore my projects.
+Let’s make science and data come alive together!
