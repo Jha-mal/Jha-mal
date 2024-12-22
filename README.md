@@ -6,8 +6,6 @@ My journey combines a strong foundation in molecular biology and genetics with
 the ever-expanding field of computational data science. I’m excited to share my 
 projects and learning experiences with you!
 
----
-
 ## 🚀 About Me
 
 - 🌍 **Location**: [Delaware, USA]
@@ -15,8 +13,6 @@ projects and learning experiences with you!
   - **M.Sc. in Molecular Biology and Genetics** *(Expected Dec 2024)*
   - **Graduate Certificate in Biomedical Informatics and Data Science**
 - ⚽ **Hobbies**: Soccer, adventure, and movies!
-
----
 
 ## 🔧 Skills & Tools
 
@@ -31,8 +27,6 @@ projects and learning experiences with you!
 - **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **Statistical Tools**: t-tests, ANOVA, and regression modeling with R
 
----
-
 ## 🖥️ Projects
 
 ### **RNA-seq Analysis of Liver and Brain Tissues**
@@ -42,8 +36,6 @@ projects and learning experiences with you!
 - **Tools**: Python, R, and Bash scripting.
 - **Outcome**: Identified tissue-specific gene expression profiles and pathways, 
   contributing to insights into tissue function.
-
----
 
 ## 📊 Research Skills
 
@@ -57,20 +49,14 @@ projects and learning experiences with you!
 | RNA-seq Analysis             | Intermediate          |
 | Gel Electrophoresis          | Intermediate          |
 
----
-
 ## 🌐 Connect with Me
 
 - 💼 **LinkedIn**: [Micheal Avoseh LinkedIn](https://www.linkedin.com/in/micheal-olatunji-avoseh-2bb84a90)
 - 📧 **Email**: [avosehmicheal@gmail.com](mailto:avosehmicheal@gmail.com)
 
----
-
 ## 📸 Favorite Wallpaper
 
 ![Favorite Wallpaper](./bridge-amp-sunset-2560A_1440.png)
-
----
 
 ## 💡 Fun Fact
 
