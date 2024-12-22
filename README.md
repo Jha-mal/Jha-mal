@@ -61,6 +61,6 @@ projects and learning experiences with you!
 ## 💡 Fun Fact
 
 I love combining data and biology to tell meaningful stories. When I’m not coding
-or researching, you’ll find me playing soccer or planning my next adventure! 🧬⚽🎬
+or researching, you’ll find me playing soccer or watching soccer! 🧬⚽🎬
 
 ---
