@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Micheal Olatunji Avoseh 🥷
 
-Welcome to my GitHub profile! I’m a **biomedical scientist** passionate about 
-incorporating **data science** to visualize and analyze complex biomedical data. 
-My journey combines a strong foundation in molecular biology and genetics with 
-the ever-expanding field of computational data science. I’m excited to share my 
+Welcome to my GitHub profile! I’m a **biomedical scientist** passionate about
+incorporating **data science** to visualize and analyze complex biomedical data.
+My journey combines a strong foundation in molecular biology and genetics with
+the ever-expanding field of computational data science. I’m excited to share my
 projects and learning experiences with you!
 
 ## 🚀 About Me
@@ -31,10 +31,10 @@ projects and learning experiences with you!
 
 ### **RNA-seq Analysis of Liver and Brain Tissues**
 
-- **Description**: Performed RNA-seq analysis to compare gene expression patterns 
+- **Description**: Performed RNA-seq analysis to compare gene expression patterns
   between liver and brain tissues.
 - **Tools**: Python, R, and Bash scripting.
-- **Outcome**: Identified tissue-specific gene expression profiles and pathways, 
+- **Outcome**: Identified tissue-specific gene expression profiles and pathways,
   contributing to insights into tissue function.
 
 ## 📊 Research Skills
@@ -60,7 +60,7 @@ projects and learning experiences with you!
 
 ## 💡 Fun Fact
 
-I love combining data and biology to tell meaningful stories. When I’m not coding 
+I love combining data and biology to tell meaningful stories. When I’m not coding
 or researching, you’ll find me playing soccer or planning my next adventure! 🧬⚽🎬
 
 ---
